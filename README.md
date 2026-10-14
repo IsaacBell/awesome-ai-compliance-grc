@@ -68,6 +68,7 @@
 - [Telnyx](https://support.telnyx.com/en/articles/3347891-hipaa-baas-and-the-conduit-exception) - Communications and telephony API platform covering HIPAA, BAAs, and the conduit exception.
 - [Drata](https://drata.com/products/compliance-automation) - Continuous compliance automation platform that can drive SOC 2 and HIPAA readiness.
 - [Canary Mail](https://canarymail.io/faq) - Privacy-focused email client with secure-send options and a documented compliance story.
+- [Prisma Postgres](https://www.prisma.io/postgres/hipaa) - Managed serverless Postgres with a BAA on the Business plan and no HIPAA surcharge.
 
 ## GRC Frameworks & Guides
 
