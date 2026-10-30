@@ -27,6 +27,7 @@
 - [Certra](https://linkedin.com/company/certra-soc-hipaa) - Compliance advisory focused on SOC 2 and HIPAA readiness.
 - [Hyperproof](https://hyperproof.io) - GRC platform for managing compliance operations and audit evidence.
 - [AuditBoard](https://www.auditboard.com) - Cloud platform for audit, risk, and compliance teams.
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Deterministic policy runner for AI-assisted employment screening, with linked human-review and correction records and Hiring Decision Packs containing signed records.
 - [LogicGate](https://www.logicgate.com) - Risk and compliance automation platform with workflow design.
 
 ## Privacy & Data Protection
