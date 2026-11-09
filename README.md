@@ -29,6 +29,7 @@
 - [AuditBoard](https://www.auditboard.com) - Cloud platform for audit, risk, and compliance teams.
 - [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Deterministic policy runner for AI-assisted employment screening, with linked human-review and correction records and Hiring Decision Packs containing signed records.
 - [LogicGate](https://www.logicgate.com) - Risk and compliance automation platform with workflow design.
+- [Attestlane](https://attestlane.to) - SOC 2 readiness for 1-50 person B2B software teams with AI-drafted policies for the team to review, a 39-item evidence checklist, and an auditor-ready package.
 
 ## Privacy & Data Protection
 
