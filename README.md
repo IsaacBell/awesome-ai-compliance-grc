@@ -85,6 +85,7 @@
 
 - [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) - European Commission's regulatory framework for artificial intelligence.
 - [EU AI Act text and timeline](https://artificialintelligenceact.eu) - Community-maintained tracker of the EU AI Act's text and implementation timeline.
+- [EU AI Act deployer checklist](https://standardcompute.com/eu-ai-act-deployer-checklist) - 16 duties for companies that use AI, each with its article and the evidence to keep, with dates as amended by the Digital Omnibus (Regulation (EU) 2026/1744); Markdown and CSV downloads.
 - [ISO/IEC 42001](https://www.iso.org/standard/81230.html) - International standard for AI management systems.
 - [US Executive Order on AI](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) - Executive Order 14110 on safe, secure, and trustworthy AI.
 
