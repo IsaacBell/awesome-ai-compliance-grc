@@ -80,6 +80,7 @@
 - [COSO ERM Framework](https://www.coso.org/erm) - Widely adopted framework for enterprise risk management.
 - [ISO 37301](https://www.iso.org/standard/75080.html) - International standard for compliance management systems.
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - US framework for managing cybersecurity risk across sectors.
+- [AI Governance Templates](https://github.com/nosistech/governance-templates) - Open AI use policy, tool register, vendor questionnaire and incident playbook templates in Word and Excel.
 
 ## AI Regulations & Standards
 
