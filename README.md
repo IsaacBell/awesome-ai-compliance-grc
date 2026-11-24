@@ -81,6 +81,7 @@
 - [ISO 37301](https://www.iso.org/standard/75080.html) - International standard for compliance management systems.
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - US framework for managing cybersecurity risk across sectors.
 - [AI Governance Templates](https://github.com/nosistech/governance-templates) - Open AI use policy, tool register, vendor questionnaire and incident playbook templates in Word and Excel.
+- [AOGF — Agent Operations Governance Framework](https://github.com/AMPM-AIOPS-HQ/agent-operations-governance-framework) - Open whitepaper and blank work-order and receipt templates for governing AI agent operations: scope, quality gates, human approval and audit records.
 
 ## AI Regulations & Standards
 
